@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
 
         <div className="flex justify-center lg:justify-end  "   >
     <Image
-      src={"/images/bg.png"}
+      src="/images/bg.png"
       alt="hero image"
       width={640}
       height={900}
