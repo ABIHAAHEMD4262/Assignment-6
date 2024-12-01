@@ -96,7 +96,7 @@ const Footer: React.FC = () => {
       </div>
 
       {/* Divider and Footer Text */}
-      <div className="flex flex-col items-center gap-6 mt-10">
+      <div className="flex flex-col gap-6 mt-10">
         <Image
           src="/icons/Divider.png"
           alt="Divider"
@@ -104,8 +104,9 @@ const Footer: React.FC = () => {
           height={1}
           className="w-full lg:w-auto"
         />
+        <div className="flex flex-col  lg:flex-row  lg:gap-8 mt-5 lg:mt-10 text-black gap-6">
         <h5 className="text-sm text-center">2023 Ddsgnr. All right reserved.</h5>
-        <div className="flex flex-row justify-center gap-6">
+        <div className="flex md:flex-row sm:flex gap-6">
           <a href="#" className="text-black underline text-sm">
             Privacy Policy
           </a>
@@ -121,8 +122,10 @@ const Footer: React.FC = () => {
           alt="Social Links"
           width={132}
           height={24}
-          className="mt-4"
+          className=" items-center  md:ml-[350px]"
         />
+        </div>
+        
       </div>
     </div>
   );
