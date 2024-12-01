@@ -28,7 +28,7 @@ const CustomerTestimonials = () => {
                         width={116}
                         height={18.89}
                     />
-                    <p className="text-xl pt-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+                    <p className="text-xl pt-4">Lorem ipsum dolor sit amet,consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
                     <div className="flex items-center pt-4">
                         <Image
                             src="/icons/james.png"
@@ -55,7 +55,7 @@ const CustomerTestimonials = () => {
                         width={116}
                         height={18.89}
                     />
-                    <p className="text-xl pt-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+                    <p className="text-xl pt-4">Lorem ipsum dolor sit amet,consectetur adipiscing elit.Suspendisse varius enim in eros elementum tristique.Duis cursus, mi quis viverra ornare.</p>
                     <div className="flex items-center pt-4">
                         <Image
                             src="/icons/james.png"
@@ -79,7 +79,7 @@ const CustomerTestimonials = () => {
                         width={116}
                         height={18.89}
                     />
-                    <p className="text-xl pt-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+                    <p className="text-xl pt-4">Lorem ipsum dolor sit amet,consectetur adipiscing elit.Suspendisse varius enim in eros elementum tristique.Duis cursus, mi quis viverra ornare.</p>
                     <div className="flex items-center pt-4">
                         <Image
                             src="/icons/erick.png"
@@ -103,7 +103,7 @@ const CustomerTestimonials = () => {
                         width={116}
                         height={18.89}
                     />
-                    <p className="text-xl pt-4">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+                    <p className="text-xl pt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Suspendisse varius enim in eros elementum tristique.Duis cursus, mi quis viverra ornare.</p>
                     <div className="flex items-center pt-4">
                         <Image
                             src="/icons/stephen.png"
