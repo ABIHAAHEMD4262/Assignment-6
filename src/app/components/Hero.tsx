@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
       alt="hero image"
       width={640}
       height={900}
-      className="w-full h-auto object-contain"
+      className="w-full h-auto object-cover"
     />
   </div>
 
